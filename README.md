@@ -240,5 +240,4 @@ ORDER BY 1,3 DESC;
 This project demonstrates a complete data analysis workflow using SQL — from database setup and data cleaning to answering real business questions.  
 The analysis reveals key insights: top-selling categories, high-value customers, seasonal sales peaks, and transaction patterns by time of day.
 
-Based on the tutorial by Zero Analyst (YouTube). 
-I re-implemented and extended the project for my portfolio.
+Dataset sourced from public retail data. Queries and analysis independently developed for portfolio purposes.
